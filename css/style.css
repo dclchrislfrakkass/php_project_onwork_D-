@@ -1,0 +1,14 @@
+input:hover {
+    background-color: #ECECEC;
+}
+
+#sort:hover {
+    -moz-box-shadow: 0 0 10px #ccc;
+    -webkit-box-shadow: 0 0 10px #ccc;
+    box-shadow: 0 0 10px #ccc;
+    background-color: white;
+}
+
+footer {
+    background-color: #CCC;
+}
